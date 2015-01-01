@@ -25,7 +25,10 @@ j1();
 console.log 'Back to CoffeeScript'
 j2 'World'
 
-
+# Below comments are added to check for the auto matic build by CAKE
+# comment to check it watch-task is working
+# its working!
+# Happy Cake
 
 
 console.log 'CoffeeScript : 5 : End'
